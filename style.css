@@ -1,0 +1,98 @@
+h1 {
+	font-family:'Abel', cursive;
+	font-weight:bold;
+	color: rgb(98,87,87) ;
+	text-align: center;
+	}
+
+body { 
+	font-family: 'KoHo' ;
+    text-align: center ; 
+    font-size: 16px;
+    background-image: url("https://cadorincamello.adv.br/wp-content/uploads/2017/02/advocacia-nas-nuvens.jpg");
+    background-position:fixed;
+    background-repeat:no-repeat;
+    background-attachment: fixed; 
+    background-size: cover; 
+    background-position:fixed;
+}  
+
+h2 { 
+	font-family: 'KoHo' ; 
+	color:#9d8f8f	 ;
+	text-align: center;
+	font-size: 21px;
+	}
+
+p { 
+	line-height:24px;
+}
+
+#p-intro {
+	line-height:30px ;
+}
+
+.motto { 
+	font-style: italic;
+}
+
+.box-white {
+	background:white;
+    padding: 10px;
+    margin: 50px;
+    margin-right: 220px; 
+    margin-left: 220px;
+    border-radius: 5px;
+}
+
+.shadow {
+	box-shadow:0px 10px 30px rgba(0,0,0,0.4);
+}
+
+.pic-round {
+	border : 1px solid rgb(224,222,222);
+    border-radius: 200px;
+}
+
+.list-socialnetwork {
+	list-style-type: none; 
+	padding-left:0px;
+}
+.list-socialnetwork li {
+	display:inline;
+	padding:10px;
+}
+.list-socialnetwork i {
+	font-size: 30px ;
+	color:rgb(182,194,198);
+
+}
+.list-socialnetwork i:hover 
+{
+	color:rgb(57,123,204);
+}
+
+#intro p {
+	margin-bottom:30px;
+}
+
+.menu {
+	text-decoration:none;
+	font-weight:bold;
+	color:rgb(82,74,137);
+	font-size:18px;
+}
+
+.menu:hover {
+	color:black ; 
+	background-color:rgb(199,198,206); 
+}
+#box-menu {
+	background-color:white;
+	padding: 0px;
+    margin:0px;
+    margin-right: 1px; 
+    margin-left: 1px;
+    border-radius: 5px;
+}
+
